@@ -31,3 +31,19 @@ p {
 img {
   width: 80%;
 }
+
+button {
+  margin-top: 40px;
+  color: aliceblue;
+  background-color: #4ECCA3;
+  padding: 12px 24px;
+  border-radius: 50px;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  transition: background-color 0.3s
+}
+
+button:hover {
+  background-color: white;
+  color: black
+}
